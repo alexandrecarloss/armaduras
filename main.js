@@ -7,62 +7,62 @@ const overlay = document.querySelector('.overlay');
 /* Declaring the array of image filenames */
 const images = [
     {
-        src: 'aries.png',
+        src: 'aries.webp',
         alt: 'Áries',
         description: 'Mu de Áries é conhecido por sua inteligência e habilidades de telecinese.'
     },
     {
-        src: 'touro.png',
+        src: 'touro.webp',
         alt: 'Touro',
         description: 'Aldebaran possui força colossal e protege a Casa de Touro.'
     },
     {
-        src: 'gemeos.png',
+        src: 'gemeos.webp',
         alt: 'Gêmeos',
         description: 'Saga de Gêmeos domina técnicas dimensionais devastadoras.'
     },
     {
-        src: 'cancer.png',
+        src: 'cancer.webp',
         alt: 'Câncer',
         description: 'Máscara da Morte controla espíritos e o mundo dos mortos.'
     },
     {
-        src: 'leao.png',
+        src: 'leao.webp',
         alt: 'Leão',
         description: 'Aiolia é um dos cavaleiros mais velozes e poderosos.'
     },
     {
-        src: 'virgem.png',
+        src: 'virgem.webp',
         alt: 'Virgem',
         description: 'Shaka é considerado o homem mais próximo de Deus.'
     },
     {
-        src: 'libra.png',
+        src: 'libra.webp',
         alt: 'Libra',
         description: 'Dohko guarda as armas de Libra e possui grande sabedoria.'
     },
     {
-        src: 'escorpiao.png',
+        src: 'escorpiao.webp',
         alt: 'Escorpião',
         description: 'Milo utiliza a técnica da Agulha Escarlate.'
     },
     {
-        src: 'sagitario.png',
+        src: 'sagitario.webp',
         alt: 'Sagitário',
         description: 'Aiolos foi o cavaleiro que salvou Atena ainda bebê.'
     },
     {
-        src: 'capricornio.png',
+        src: 'capricornio.webp',
         alt: 'Capricórnio',
         description: 'Shura possui a lendária Excalibur em seus braços.'
     },
     {
-        src: 'aquario.png',
+        src: 'aquario.webp',
         alt: 'Aquário',
         description: 'Camus domina o frio absoluto e as técnicas de gelo.'
     },
     {
-        src: 'peixes.png',
+        src: 'peixes.webp',
         alt: 'Peixes',
         description: 'Afrodite utiliza rosas mortais em combate.'
     },
