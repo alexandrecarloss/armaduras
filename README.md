@@ -29,7 +29,7 @@ Você pode visualizar o projeto em execução através do link abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/alexandrecarloss/armaduras.git](https://github.com/alexandrecarloss/armaduras.git)
+   git clone https://github.com/alexandrecarloss/armaduras.git
 
 2. Navegue até o diretório do projeto:
  ```bash
