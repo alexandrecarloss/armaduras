@@ -28,8 +28,14 @@ Você pode visualizar o projeto em execução através do link abaixo:
 ## 🛠️ Como executar o projeto
 
 1. Clone o repositório:
-   ´´´bash
+   ```bash
    git clone [https://github.com/alexandrecarloss/armaduras.git](https://github.com/alexandrecarloss/armaduras.git)
-   ´´´
 
---- Desenvolvido por **Alexandre Carlos** durante o Web Academy - UFAM.
+2. Navegue até o diretório do projeto:
+ ```bash
+cd armaduras
+```
+
+3. Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server do VS Code.
+
+--- Desenvolvido por [Carlos Alexandre](https://github.com/alexandrecarloss) durante o Web Academy - UFAM.
