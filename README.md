@@ -38,4 +38,14 @@ cd armaduras
 
 3. Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server do VS Code.
 
+## 📄 License
+
+This project is MIT licensed.
+
+## 👤 Author
+
 --- Desenvolvido por [Carlos Alexandre](https://github.com/alexandrecarloss) durante o Web Academy - UFAM.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
